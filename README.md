@@ -23,7 +23,7 @@
 <h3 align="center">Technologies & Tools 🛠️</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,html,css,git,github&perline=8" alt="My skills" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,react,ts,html,css,git,github&perline=9" alt="My skills" />
 </p>
 
 ---
