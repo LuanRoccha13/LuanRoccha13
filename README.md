@@ -10,7 +10,7 @@
 
 <h3 align="center">About me 🧑‍💻</h3>
 
-🎓 Computer Science student
+🎓 Computer Science student | FECAP
 
 🏛️ Intern at ALESP
 
